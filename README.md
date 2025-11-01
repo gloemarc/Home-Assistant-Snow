@@ -4,7 +4,7 @@
 Schneefall über all Eure Home Assistant Dashboards hinweg.
 inkl. Button zum ein und ausschalten.
 
-
+Für all das nutzt ihr am besten das Addon -> FileEditor
 
 1. snow.js im /www/ Ornder anlegen.
    <img width="924" height="83" alt="image" src="https://github.com/user-attachments/assets/a42073f3-3949-46f9-95c6-b20b2704f5a4" />

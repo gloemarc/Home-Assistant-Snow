@@ -6,6 +6,6 @@ inkl. Button zum ein und ausschalten.
 1. snow.js im /www/ Ornder anlegen.
 2. Einstellungen -> Dashboards -> 3 Punkte Menü oben rechts -> Ressources
 3. neue Ressource anlegen (JavaScript-Modul) /local/snow.js
-4. Einen Helfer anlegen -Y Schalter Schnefall -> input_boolean.schneefal
+4. Einen Helfer anlegen -Y Schalter Schnefall -> input_boolean.schneefall
 
    Jetzt könnt Ihr einen Switch mit der Entität Schnefall erstellen ! :-)

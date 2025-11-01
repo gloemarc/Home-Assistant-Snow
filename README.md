@@ -18,11 +18,11 @@ Für all das nutzt ihr am besten das Addon -> FileEditor
    <img width="597" height="508" alt="image" src="https://github.com/user-attachments/assets/673a2c81-de60-4eca-98da-615f7f44ba0d" />
 
 
-6. Einen Helfer anlegen -> Schalter Schnefall -> input_boolean.schneefall
+6. Einen Helfer anlegen -> Schalter Schneefall -> input_boolean.schneefall
    <img width="1087" height="60" alt="image" src="https://github.com/user-attachments/assets/3fe6a1ca-cb5d-452d-918a-957de8642879" />
 
 
 
-   Jetzt könnt Ihr einen Switch mit der Entität Schnefall erstellen ! :-)
+   Jetzt könnt Ihr einen Switch mit der Entität Schneefall erstellen ! :-)
 
    <img width="1033" height="807" alt="image" src="https://github.com/user-attachments/assets/302c61cd-9273-4514-9afe-7e633de85471" />
